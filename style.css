@@ -1,0 +1,26 @@
+body {
+margin: 0;
+background: linear-gradient(to right, pink, darkslateblue);
+padding: 50px;
+}
+
+section {
+    width: 100%;
+    float: left;
+    display: flex;
+    align-items: flex-start;
+}
+
+article {
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.image {
+    width: 200px;
+}
